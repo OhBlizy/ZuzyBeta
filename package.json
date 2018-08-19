@@ -11,6 +11,8 @@
   "dependencies": {
     "discord.js": "^11.4.2",
     "ms": "^2.1.1",
-    "superagent": "^3.8.3"
+    "opusscript": "0.0.6",
+    "superagent": "^3.8.3",
+    "ytdl-core": "^0.24.0"
   }
 }
